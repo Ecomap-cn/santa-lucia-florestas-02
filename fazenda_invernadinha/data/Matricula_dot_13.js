@@ -1,0 +1,1 @@
+var json_Matricula_dot_13 = {"type":"FeatureCollection","name":"Matricula_dot_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Matrícula":"39.604"},"geometry":{"type":"Point","coordinates":[-51.152291188417706,-27.322554421175276]}}]}
